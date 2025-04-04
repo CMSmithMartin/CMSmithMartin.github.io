@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Chris M. Smith-Martin / Site Title"
+title                    : "Assistant Professor"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Chris M. Smith-Martin"
 description              : &description "My research program focuses on integrating theory and methods from plant physiological ecology, forest community ecology, and ecosystem ecology to investigate how environmental factors, such as water availability and temperature, affect plant responses to changing climates. Specifically, I use experiments, field-based observational studies, and laboratory work to understand: 1) how resource availability affects woody plant growth and biomass allocation patterns; 2) how severe drought, heatwaves, and other types of disturbance (e.g., hurricanes) affect woody plant community dynamics (e.g., mortality, growth); and 3) how hydraulic and other resource-acquisition traits support woody plant drought, heat, and frost resistance. My research focuses particularly on diverse temperate and tropical forest ecosystems, by examining variation within and across species spanning different woody plant growth forms: lianas (woody vines), shrubs, and trees."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
